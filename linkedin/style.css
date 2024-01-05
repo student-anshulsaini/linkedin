@@ -1,0 +1,71 @@
+.box{
+    height: 320px;
+    width: 270px;
+
+}
+.photo{
+  
+    background-color: #ffffff;
+    
+}
+.nam{
+    color: #000000E6;
+
+}
+.grape{
+    color: #2b2626e6;
+    font: 16px;
+   
+}
+.add{
+
+    color: #00000099;
+    font: 14px;
+
+}
+.link{
+    color: #0A66C2;
+}
+.conn{
+    color:#00000099 ;
+    font: 14px;
+}
+.but{
+    color: #ffffff;
+    background-color: #0A66C2;
+    margin: 0px 8px 0px 0px;
+    padding: 6px 16px;
+    font: 16;
+    border-radius: 45px;
+}
+.con{
+    color: #0A66C2;
+    margin: 0px 8px 0px 0px;
+    padding: 6px 16px;
+    font: 16px;
+    border-radius: 45px;
+}
+.mor{
+    color: #00000099;
+    margin: 0px 8px 0px 0px;
+    font: 14px;
+    border-radius: 45px;
+
+
+}
+.box2{
+    border-color: antiquewhite;
+}
+.abo{
+    color: #000000E6;
+    padding: 12px 12px 0px;
+    font: 16px;
+    
+
+}
+.par{
+    color: #2b2626e6;
+    width: 270px;
+}
+
+
