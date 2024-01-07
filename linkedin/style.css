@@ -1,19 +1,31 @@
 .box{
     height: 320px;
     width: 270px;
+    border-radius: 1px silver;
 
 }
 .photo{
   
     background-color: #ffffff;
-    
+    border-radius: 50px;
 }
 .nam{
     color: #000000E6;
 
 }
+.he{
+    color: #9f9c9ce6;
+}
+.cont{
+       border: none;
+       background-color:white ;
+       padding: 0px 15px;
+       
+    
+
+}
 .grape{
-    color: #2b2626e6;
+    color: #474343e6;
     font: 16px;
    
 }
@@ -64,7 +76,7 @@
 
 }
 .par{
-    color: #2b2626e6;
+    color:  #968a8ae6;
     width: 270px;
 }
 
